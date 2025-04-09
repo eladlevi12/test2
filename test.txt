@@ -1,0 +1,93 @@
+# Health Insurance Coverage Summary
+**Plan Name:** FamilyCare Gold PPO Plan
+**Member Name:** Jane Doe
+**Group Number:** FC-GOLD-3001
+**Effective Date:** January 1, 2025
+
+---
+
+## Section 6: Maternity and Pregnancy Care
+
+This section outlines benefits provided for services related to pregnancy, maternity, and postpartum care.
+
+---
+
+## Covered Services
+
+The following maternity-related services are **covered** under your FamilyCare Gold PPO Plan:
+
+### Prenatal Care
+- **Routine Office Visits:** Covered at 100% when performed by an in-network provider.
+- **Screenings and Lab Work:** Includes ultrasounds, glucose testing, and blood panels. Subject to lab services co-pay ($20).
+- **Genetic Counseling and Testing:** Covered when medically necessary or if you have a high-risk pregnancy.
+
+### Labor and Delivery
+- **Hospitalization for Vaginal Delivery:** Covered at 80% after deductible ($750). Includes labor, delivery, anesthesia, and hospital stay up to 48 hours.
+- **Cesarean Delivery:** Covered at 80% after deductible. Hospital stay up to 96 hours included.
+- **Midwife Services:** Covered at 80% if performed in a licensed birthing center or in-network hospital.
+
+### Birthing Centers
+- Covered up to $5,000 per delivery at accredited centers. Prior authorization required.
+
+### Postpartum Care
+- **Postnatal Checkups:** One postpartum visit within 60 days of delivery covered at 100%.
+- **Mental Health Screening:** One postpartum depression screening within 6 weeks of delivery is covered at 100%.
+- **Lactation Consultation:** Up to 6 sessions per calendar year, covered at 100%.
+- **Breast Pump:** One electric breast pump per pregnancy, covered at 100% if ordered through an in-network DME provider.
+
+---
+
+## Additional Benefits
+
+| Benefit                        | Coverage                  | Notes                                               |
+|-------------------------------|---------------------------|-----------------------------------------------------|
+| Prenatal Vitamins (Rx)        | $10 co-pay (generic only) | Requires prescription                               |
+| High-risk OB/GYN care         | 80% after deductible       | Referral required                                   |
+| Doula Support                 | Not covered                | May be eligible for reimbursement under FSA         |
+| Home Visits (Postnatal)       | Covered (2 visits max)     | Within 10 days of delivery; referral required       |
+| NICU Services                 | 80% after deductible       | Prior authorization required                        |
+
+---
+
+## Exclusions and Limitations
+
+The following services are **not covered** under this plan:
+- Elective home births not attended by a certified midwife or licensed OB-GYN.
+- Non-medically necessary ultrasounds (e.g., gender reveal or 3D imaging for keepsake).
+- Over-the-counter prenatal supplements without prescription.
+- Doula services, childbirth education classes, and hypnobirthing (unless explicitly endorsed by a provider and pre-authorized).
+- Surrogacy-related maternity care, unless the member is the legal birth mother.
+
+---
+
+## Prior Authorization Requirements
+
+You must obtain prior authorization for the following services:
+- Inpatient hospital stays longer than 48 hours for vaginal delivery or 96 hours for cesarean.
+- High-risk maternity services and specialized fetal imaging.
+- NICU admission.
+
+Failure to obtain prior authorization may result in a **denial of claims**.
+
+---
+
+## Frequently Asked Questions (FAQs)
+
+**Q: Do I need to notify the insurance company when I become pregnant?**
+A: It is recommended to notify the plan within the first trimester to facilitate care coordination and case management services.
+
+**Q: Are prenatal classes covered?**
+A: No, childbirth education classes are not covered unless part of a hospital-sponsored wellness program.
+
+**Q: What if I switch providers mid-pregnancy?**
+A: Coverage continues, but ensure your new provider is in-network. Out-of-network services may result in additional costs.
+
+---
+
+## Contact Information
+
+For maternity-related questions or to initiate prior authorization:
+
+- **Customer Service:** 1-800-555-1234
+- **Case Management Services:** 1-800-555-5678
+- **Website:** [www.familycaregold.com](http://www.familycaregold.com)
